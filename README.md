@@ -3,7 +3,7 @@ A sample app for charts with categories and custom sidebar legends.
 
 ## OVERVIEW
 
-This sample app was developed with Xojo 2024-2025 on MacOS for **Xojo Year of Code July 2025**. 
+This sample app was developed with Xojo 2025r2 on MacOS for **Xojo Year of Code July 2025**. 
 
 ## HIGHLIGHTS
 
